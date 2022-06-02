@@ -1,0 +1,7 @@
+D:\Lucas\UFU-2020-2\POO\caHeranca\caHeranca\bin\Debug\caHeranca.exe.config
+D:\Lucas\UFU-2020-2\POO\caHeranca\caHeranca\bin\Debug\caHeranca.exe
+D:\Lucas\UFU-2020-2\POO\caHeranca\caHeranca\bin\Debug\caHeranca.pdb
+D:\Lucas\UFU-2020-2\POO\caHeranca\caHeranca\obj\Debug\caHeranca.csprojAssemblyReference.cache
+D:\Lucas\UFU-2020-2\POO\caHeranca\caHeranca\obj\Debug\caHeranca.csproj.CoreCompileInputs.cache
+D:\Lucas\UFU-2020-2\POO\caHeranca\caHeranca\obj\Debug\caHeranca.exe
+D:\Lucas\UFU-2020-2\POO\caHeranca\caHeranca\obj\Debug\caHeranca.pdb

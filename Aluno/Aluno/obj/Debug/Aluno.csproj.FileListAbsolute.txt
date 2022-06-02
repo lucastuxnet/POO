@@ -1,0 +1,7 @@
+D:\Lucas\UFU-2020-2\POO\Aluno\Aluno\bin\Debug\Aluno.exe.config
+D:\Lucas\UFU-2020-2\POO\Aluno\Aluno\bin\Debug\Aluno.exe
+D:\Lucas\UFU-2020-2\POO\Aluno\Aluno\bin\Debug\Aluno.pdb
+D:\Lucas\UFU-2020-2\POO\Aluno\Aluno\obj\Debug\Aluno.csprojAssemblyReference.cache
+D:\Lucas\UFU-2020-2\POO\Aluno\Aluno\obj\Debug\Aluno.csproj.CoreCompileInputs.cache
+D:\Lucas\UFU-2020-2\POO\Aluno\Aluno\obj\Debug\Aluno.exe
+D:\Lucas\UFU-2020-2\POO\Aluno\Aluno\obj\Debug\Aluno.pdb

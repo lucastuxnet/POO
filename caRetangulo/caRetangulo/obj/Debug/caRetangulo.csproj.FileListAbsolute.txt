@@ -1,0 +1,7 @@
+D:\Lucas\UFU-2020-2\POO\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe.config
+D:\Lucas\UFU-2020-2\POO\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe
+D:\Lucas\UFU-2020-2\POO\caRetangulo\caRetangulo\bin\Debug\caRetangulo.pdb
+D:\Lucas\UFU-2020-2\POO\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csprojAssemblyReference.cache
+D:\Lucas\UFU-2020-2\POO\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csproj.CoreCompileInputs.cache
+D:\Lucas\UFU-2020-2\POO\caRetangulo\caRetangulo\obj\Debug\caRetangulo.exe
+D:\Lucas\UFU-2020-2\POO\caRetangulo\caRetangulo\obj\Debug\caRetangulo.pdb
