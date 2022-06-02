@@ -1,0 +1,7 @@
+C:\Users\lcsmr\source\repos\caQuestao2\caQuestao2\bin\Debug\caQuestao2.exe.config
+C:\Users\lcsmr\source\repos\caQuestao2\caQuestao2\bin\Debug\caQuestao2.exe
+C:\Users\lcsmr\source\repos\caQuestao2\caQuestao2\bin\Debug\caQuestao2.pdb
+C:\Users\lcsmr\source\repos\caQuestao2\caQuestao2\obj\Debug\caQuestao2.csprojAssemblyReference.cache
+C:\Users\lcsmr\source\repos\caQuestao2\caQuestao2\obj\Debug\caQuestao2.csproj.CoreCompileInputs.cache
+C:\Users\lcsmr\source\repos\caQuestao2\caQuestao2\obj\Debug\caQuestao2.exe
+C:\Users\lcsmr\source\repos\caQuestao2\caQuestao2\obj\Debug\caQuestao2.pdb
